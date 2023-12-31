@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702971755 source:e:\thirdyeea\ds2\suffixtree\main.cpp
+	<iostream>
+	<cstring>
+
